@@ -4,7 +4,7 @@
 "description": "",
 "main": "mybot.luis.js",
 "scripts": {
-"test": "echo "Error: no test specified" && exit 1"
+"start": "node mybot.luis.js"
 },
 "author": "",
 "license": "ISC",
